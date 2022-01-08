@@ -8,12 +8,6 @@ redirect_from:
   - /
 ---
 
-{% include base_path %}
-
-Education
-======
-* B.S. in Software Engineering, Universidade de Brasília, 2021
-
 Work experience
 ======
 * Audio Data Scientist I - Itaú Unibanco (March 2021 - Present)
@@ -39,6 +33,11 @@ Work experience
     * Proof of concept of a system capable of identifying plantation in a given area using satellite imagery.
     * Tech researched: Image Processing, Computer Vision, Deep Learning.
 
+Education
+======
+* B.S. in Software Engineering, Universidade de Brasília, 2021
+Thesis: [Context-Dependent Probabilistic Prior Information Strategy for MRI Reconstruction](https://drive.google.com/file/d/11XNw2_Ia67Alxefn1K0xzC5ZBLK19pyo/view?usp=sharing)
+
 Skills
 ======
 * Linux
@@ -47,6 +46,12 @@ Skills
 * NLP
 * Docker
 * AWS
+
+Languages
+======
+Portuguese: Native
+English: Fluent (C1 level)
+Spanish: Limited working profiency
 
 Publications
 ======
