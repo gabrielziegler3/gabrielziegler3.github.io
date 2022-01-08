@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Gabriel Ziegler"
-  avatar           : "images/dp.jpg"
+  avatar           : "dp.jpg"
   bio              : "Data Scientist and Software Engineer with 4 years of experience. I have experience in financial, law-tech, fraud detection businesses working with data with a strong software engineering background. Currently working with: audio signal processing, neural networks, compressed sensing, MRI reconstruction in PyTorch"
   location         : "Brasília, Brazil"
   employer         : "Itaú Unibanco"
