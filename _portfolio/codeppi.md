@@ -12,8 +12,7 @@ due to its implementation that lacks the need to perform array elements position
 lookup. In our experiments, our approach provides better reconstruction in terms of the
 evaluated metrics: Signal-to-Noise Ratio (SNR), Peak Signal-to-Noise Ratio (PSNR),
 Structural SIMilarity (SSIM), Normalized Mean Squared Error (NMSE), Mean Squared
-Error (MSE).
-Achieving higher quality with a reduced number of samples allows faster exam
+Error (MSE). Achieving higher quality with a reduced number of samples allows faster exam
 procedures, making MRI cheaper, faster, and more convenient for both patients and
 clinics, which is our ultimate goal.
 <br/>
@@ -32,4 +31,3 @@ collection: portfolio
 
 [Download](https://drive.google.com/file/d/11XNw2_Ia67Alxefn1K0xzC5ZBLK19pyo/view?usp=sharing)
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 

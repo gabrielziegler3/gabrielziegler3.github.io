@@ -35,7 +35,7 @@ Work experience
 Education
 ======
 * B.S. in Software Engineering, Universidade de Brasília, 2021
-<br>>
+<br>
 Thesis: [Context-Dependent Probabilistic Prior Information Strategy for MRI Reconstruction](https://drive.google.com/file/d/11XNw2_Ia67Alxefn1K0xzC5ZBLK19pyo/view?usp=sharing)
 
 Skills
@@ -50,9 +50,9 @@ Skills
 Languages
 ======
 Portuguese: Native
-<br>>
+<br>
 English: Fluent (C1 level)
-<br>>
+<br>
 Spanish: Limited working profiency
 
 Publications
