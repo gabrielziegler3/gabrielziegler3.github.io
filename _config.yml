@@ -85,10 +85,10 @@ author:
   bio              : "Data Scientist and Software Engineer with 4 years of experience. I have experience in financial, law-tech, fraud detection businesses working with data with a strong software engineering background. Currently working with: audio signal processing, neural networks, compressed sensing, MRI reconstruction in PyTorch"
   location         : "Brasília, Brazil"
   employer         : "Itaú Unibanco"
-  pubmed           : 
-  googlescholar    : 
+  pubmed           :
+  googlescholar    :
   email            : "gabrielziegler3@gmail.com"
-  researchgate     :  
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "gabrielziegler"
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : 7183373/gabriel-ziegler
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -309,3 +309,12 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+# Gems added for docker
+gems:
+- jekyll-github-metadata
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+- jemoji
