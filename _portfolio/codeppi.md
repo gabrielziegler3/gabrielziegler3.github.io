@@ -1,5 +1,5 @@
 ---
-title: "Context-Dependent Probabilistic Prior Information Strategy for MRI Reconstruction"
+title: "CoDePPI - Context-Dependent Probabilistic Prior Information Strategy for MRI Reconstruction"
 excerpt: "In this thesis, we introduce Context-Dependent Probabilistic Prior Information
 (CoDePPI), the best prior information extraction algorithm for Magnetic Resonance
 Imaging (MRI) reconstructions with the use of the Compressed Sensing (CS) theory. Our
@@ -14,20 +14,19 @@ evaluated metrics: Signal-to-Noise Ratio (SNR), Peak Signal-to-Noise Ratio (PSNR
 Structural SIMilarity (SSIM), Normalized Mean Squared Error (NMSE), Mean Squared
 Error (MSE). Achieving higher quality with a reduced number of samples allows faster exam
 procedures, making MRI cheaper, faster, and more convenient for both patients and
-clinics, which is our ultimate goal.
-<br/>
-<br/>
-<table>
-  <tr>
-    <td><img src="https://github.com/gabrielziegler3/figures/segmentation.png" alt="2" height=auto width=1550></td>
-    <td><img src="https://github.com/gabrielziegler3/figures/2d_weights.png" alt="2" height=auto width=1350></td>
-    <td><img src="https://github.com/gabrielziegler3/figures/weight_surf.png" alt="2" height=auto width=1350></td>
-    <td><img src="https://github.com/gabrielziegler3/figures/weighted_phi_surf.png" alt="2" height=auto width=1350></td>
-  </tr>
-</table>
-"
+clinics, which is our ultimate goal."
 collection: portfolio
 ---
 
-[Download](https://drive.google.com/file/d/11XNw2_Ia67Alxefn1K0xzC5ZBLK19pyo/view?usp=sharing)
+<br>
+<br>
+<iframe src="https://docs.google.com/file/d/11XNw2_Ia67Alxefn1K0xzC5ZBLK19pyo/preview" width="100%" height="800em" style="border:none;"></iframe>
 
+<br>
+<br>
+
+<h1>GitHub</h1>
+
+All experiments and implementation available in Python.
+
+[CoDePPI](https://github.com/gabrielziegler3/CoDePPI/).
