@@ -6,6 +6,12 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
+
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
 Work experience
 ======
 * **Audio Data Scientist I** - Itaú Unibanco (March 2021 - Present)

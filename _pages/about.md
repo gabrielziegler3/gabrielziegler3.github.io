@@ -16,7 +16,7 @@ Gabriel Ziegler is a Data Scientist and Machine Learning Engineer with BSc. Soft
   {% include archive-single.html %}
 {% endfor %}
 
-## Publications
+## Research
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
