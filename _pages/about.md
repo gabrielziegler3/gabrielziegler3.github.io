@@ -10,6 +10,14 @@ redirect_from:
 
 Gabriel Ziegler is a Data Scientist and Machine Learning Engineer with BSc. Software Engineering currently working with Speech Processing as an Audio Data Scientist at Itaú Unibanco.
 
+## Awards
+
+* **2019 F8 Facebook Hackathon Finalist** Selected as Top 8 Finalist out of 55 teams in the annual Facebook F8 Hackathon in San Jose, California. Pitched to Mark Zuckerberg in person.
+
+[Finalists pitch](https://www.facebook.com/watch/?v=432443067305810)
+<br>
+[OpenCurriculum Project](https://devpost.com/software/opencurriculum-by-wattba)
+
 ## Portfolio
 
 {% for post in site.portfolio %}
