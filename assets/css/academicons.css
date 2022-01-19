@@ -265,7 +265,7 @@
 .ai.fa-pull-right {
   margin-left: .3em;
 }
-/*  
+/*
  *  Repeat of the FontAwesome style classes to prevent override if academicons.css
  *  is called after font-awesome.css.
  */
@@ -324,4 +324,13 @@
 }
 .fa.fa-pull-right {
   margin-left: .3em;
+}
+.custom_image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 700px;
+  max-height: 600px;
+  height: auto;
 }
