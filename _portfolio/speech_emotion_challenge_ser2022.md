@@ -4,4 +4,4 @@ excerpt: "This task aims to motivate research for SER in our community, mainly t
 collection: portfolio
 ---
 
-<a href="https://github.com/gabrielziegler3/speech-emotion-recogntion-ser2022"><img src="https://gh-card.dev/repos/gabrielziegler3/speech-emotion-recogntion-ser2022.svg"></a>
+<a href="https://github.com/gabrielziegler3/speech-emotion-recogntion-ser2022"><img src="https://gh-card.dev/repos/gabrielziegler3/speech-emotion-recogntion-ser2022.svg?fullname"></a>
