@@ -5,10 +5,10 @@ main:
 
   - title: "Portfolio"
     url: /portfolio/
-        
+
   - title: "Posts"
-    url: /year-archive/
-    
+    url: /teaching/
+
   - title: "CV"
     url: /cv/
-    
+

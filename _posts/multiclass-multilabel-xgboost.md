@@ -13,6 +13,4 @@ tags:
 
 <h1>Multiclass & Multilabel Classification with XGBoost</h1>
 
-<img src="/images/medium_cover.jpeg">
-
 <a href="https://github.com/gabrielziegler3/xgboost-multiclass-multilabel"><img src="https://gh-card.dev/repos/gabrielziegler3/xgboost-multiclass-multilabel.svg"></a>
