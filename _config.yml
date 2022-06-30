@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Gabriel Ziegler"
-  avatar           : "dp.jpg"
-  bio              : "Data Scientist and Machine Learning Engineer with 4 years of experience in NLP, Fraud Detection, CRM, Computer Vision, Medical MRI Processing and Speech Processing with a strong Software Engineering background."
-  location         : "Brasília, Brazil"
+  avatar           : "dp.png"
+  bio              : "Machine Learning Engineer with 4 years of experience in NLP, Fraud Detection, CRM, Computer Vision, MRI Processing and Speech Processing with a strong Software Engineering background."
+  location         : "Eindhoven, Netherlands"
   employer         : "Itaú Unibanco"
   pubmed           :
   googlescholar    :
