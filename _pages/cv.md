@@ -12,7 +12,12 @@ redirect_from:
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-Download here if the preview is not working: [`gabrielziegler_cv.pdf`](https://docs.google.com/file/d/13uYG-0P_0hK2Xlnai7PtfsGqUgdVZvTp/preview)
+# Curriculum Vitae
 
-<iframe src="https://docs.google.com/file/d/13uYG-0P_0hK2Xlnai7PtfsGqUgdVZvTp/preview" width="100%" height="800em" style="border:none;"></iframe>
+**Gabriel Gomes Ziegler**
+Brasília, Brazil [GMT-3] **(Moving to Eindhoven - the Netherlands, soon)**
+Phone: +55 (61) 99697-0716
+Email: gabrielziegler3@gmail.com
+Github: [gabrielziegler3](https://github.com/gabrielziegler3/)
+LinkedIn: [gabrielziegler](https://www.linkedin.com/in/gabrielziegler/)
 
