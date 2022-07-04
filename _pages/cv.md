@@ -22,6 +22,8 @@ Email: gabrielziegler3@gmail.com
 Github: [gabrielziegler3](https://github.com/gabrielziegler3/)  
 LinkedIn: [gabrielziegler](https://www.linkedin.com/in/gabrielziegler/)  
 
+___
+
 ## Summary
 
 I am a Machine Learning Engineer with 4 years of experience in Data Science and with a strong Software Engineering background starting a master’s degree in Data Science at the Eindhoven University of Technology. I have worked in NLP, Fraud Detection, CRM, Computer Vision, MRI and Speech Processing as well as Systems Design. I also love studying data structures and design patterns.
@@ -71,7 +73,7 @@ Selected as Top 8 Finalist out of 55 teams in the annual Facebook F8 Hackathon.
 _March 2018 - April 2019, Brasilia, Brazil_
 
 Responsible for EDA, ETL and development of the multiclass and multilabel (over 1000s of classes) ML model for document classification for the supreme court in the biggest AI project in the Brazilian Judiciary.
-Model performance F1 score > 80%, performing way above the human performance evaluated for the same task.
+* Model performance F1 score > 80%, performing way above the human performance evaluated for the same task.
 
 Tech used: **Python, Linux, RabbitMQ, PostgreSQL, XGBoost, SpaCy, NLTK, Docker, Git.**
 
@@ -99,8 +101,8 @@ ___
 
 ## Publications & Awards
 
-[Document classification using a Bi-LSTM to unclog Brazil's Supreme Court](https://arxiv.org/abs/1811.11569) - NeurIPS 2018 Workshop on Machine Learning for Developing World (ML4D)
-[Document type classification for Brazil’s Supreme Court using a Convolutional Neural Network](http://icofcs.org/2018/papers-published-001.html) - ICOFCS 2018 Selected as Best Paper.
+* [Document classification using a Bi-LSTM to unclog Brazil's Supreme Court](https://arxiv.org/abs/1811.11569) - NeurIPS 2018 Workshop on Machine Learning for Developing World (ML4D)   
+* [Document type classification for Brazil’s Supreme Court using a Convolutional Neural Network](http://icofcs.org/2018/papers-published-001.html) - ICOFCS 2018 Selected as Best Paper.
 
 ___
 
