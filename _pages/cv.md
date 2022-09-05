@@ -16,11 +16,10 @@ redirect_from:
 
 ## Contact
 
-**Gabriel Gomes Ziegler**  
-🇳🇱Eindhoven - the Netherlands 
-Email: gabrielziegler3@gmail.com  
-Github: [gabrielziegler3](https://github.com/gabrielziegler3/)  
-LinkedIn: [gabrielziegler](https://www.linkedin.com/in/gabrielziegler/)  
+Location: Eindhoven, Noord-Brabant - the Netherlands<br>
+Email: gabrielziegler3@gmail.com<br>
+Github: [gabrielziegler3](https://github.com/gabrielziegler3/)<br>
+LinkedIn: [gabrielziegler](https://www.linkedin.com/in/gabrielziegler/)
 
 ___
 
@@ -32,19 +31,23 @@ ___
 
 ## Experiences
 
+### Python Engineer at Turing.com (OpenAI)
+
+Working with projects for the client OpenAI.
+
 ### Machine Learning Engineer at Itaú Unibanco
 
-_March 2021 - Present, Remote_
+_March 2021 - August 2022, Remote_
 
 Responsible for developing, deploying and monitoring audio deep learning models following MLOps practices.
-* I am one of the lead organisers for the Itaú Data Science Meetup, helping the community grow by +1500 subscribers since I joined. (YouTube) 
+* I am one of the lead organisers for the Itaú Data Science Meetup, helping the community grow by +1500 subscribers since I joined. (YouTube)
 * Improved the speaker verification model by ~20 percentage points in EER on noisy datasets.
 * Improved the speaker diarization model by ~30 percentage points in DER on noisy datasets.
 * I designed and developed an _end-to-end automatic speech recognition_ system that involved five different Deep Learning models creating a structured output for each audio file received in a database with a message queuing system. The architecture was composed of 10+ AWS IaC services varying from S3, Lambdas, SQS, SNS, and ECS Fargate, among others.
 
 Tech: **API Gateway, IAM, KMS, ECS, EFS, CodeBuild, CodePipeline, CloudWatch, Fargate, Lambda, Sagemaker,  SQS, SNS, S3, Python, Pytorch, Hugging Face Transformers, Docker, Flask, Linux.**
 
-### Data Scientist at Banco do Brasil 
+### Data Scientist at Banco do Brasil
 
 _March 2020 - September 2020, Remote_
 
@@ -85,7 +88,7 @@ ___
 
 _September 2022 - Ongoing, Eindhoven, Netherlands_
 
-Upcoming scholar in the EIT Digital double-degree Masters in Data Science & Entrepreunership.
+Scholar in the EIT Digital double-degree Masters in Data Science & Artificial Intelligence.
 
 ### Bachelor of Software Engineering (4.13/5.0) at the University of Brasília
 
@@ -101,14 +104,14 @@ ___
 
 ## Publications & Awards
 
-* [Document classification using a Bi-LSTM to unclog Brazil's Supreme Court](https://arxiv.org/abs/1811.11569) - NeurIPS 2018 Workshop on Machine Learning for Developing World (ML4D)   
+* [Document classification using a Bi-LSTM to unclog Brazil's Supreme Court](https://arxiv.org/abs/1811.11569) - NeurIPS 2018 Workshop on Machine Learning for Developing World (ML4D)
 * [Document type classification for Brazil’s Supreme Court using a Convolutional Neural Network](http://icofcs.org/2018/papers-published-001.html) - ICOFCS 2018 Selected as Best Paper.
 
 ___
 
 ## Languages
 
-Portuguese: Native   
-English: Fluent - C1 TOEFL IBT 102   
-Spanish: Limited working proficiency   
+Portuguese: Native
+English: Fluent - C1 TOEFL IBT 102
+Spanish: Limited working proficiency
 

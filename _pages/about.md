@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Software Engineer with 4+ years of experience in Machine Learning Engineering and currently enrolled in the MSc. Data Science & Artificial Intelligence at the Technische Universität Eindhoven.
+I am a Software Engineer with 4+ years of experience in Machine Learning Engineering and currently enrolled in the MSc. Data Science & Artificial Intelligence at the Eindhoven University of Technology as a scholar.
 <br>
 I am **open to contractor opportunities**.
 
