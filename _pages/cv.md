@@ -31,13 +31,15 @@ ___
 
 ## Experiences
 
-### Python Engineer at Turing.com (OpenAI)
+### Python Engineer at Turing.com
 
-Working with projects for the client OpenAI.
+_March 2021 - August 2022, California, Remote_
+
+Python developer for one of the biggest AI research companies.
 
 ### Machine Learning Engineer at Itaú Unibanco
 
-_March 2021 - August 2022, Remote_
+_March 2021 - August 2022, São Paulo, Remote_
 
 Responsible for developing, deploying and monitoring audio deep learning models following MLOps practices.
 * I am one of the lead organisers for the Itaú Data Science Meetup, helping the community grow by +1500 subscribers since I joined. (YouTube)
@@ -49,7 +51,7 @@ Tech: **API Gateway, IAM, KMS, ECS, EFS, CodeBuild, CodePipeline, CloudWatch, Fa
 
 ### Data Scientist at Banco do Brasil
 
-_March 2020 - September 2020, Remote_
+_March 2020 - September 2020, Brasília, Remote_
 
 Responsible for ETL pipelines, EDA, Insights Reports and client-focused Machine Learning Models for Classification, Regression, and Clustering.
 * Improved the credit limit model by 10 percentage points in F1-Score.
