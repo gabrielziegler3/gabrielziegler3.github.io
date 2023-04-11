@@ -25,7 +25,7 @@ ___
 
 ## Summary
 
-I am a Machine Learning Engineer with 4 years of experience in Data Science and with a strong Software Engineering background starting a master’s degree in Data Science at the Eindhoven University of Technology. I have worked in NLP, Fraud Detection, CRM, Computer Vision, MRI and Speech Processing as well as Systems Design. I also love studying data structures and design patterns.
+I am a Software Engineer with 5 years of experience in Data Science and Machine Learning Engineering pursuing a master’s degree in Data Science & Artificial Intelligence at the Eindhoven University of Technology. I have worked in NLP, Fraud Detection, CRM, Computer Vision, MRI and Speech Processing as well as Systems Design. 
 
 ___
 
