@@ -16,7 +16,7 @@ redirect_from:
 
 ## Contact
 
-Location: Eindhoven, Noord-Brabant - the Netherlands<br>
+Location: Helsinki, Finland<br>
 Email: gabrielziegler3@gmail.com<br>
 Github: [gabrielziegler3](https://github.com/gabrielziegler3/)<br>
 LinkedIn: [gabrielziegler](https://www.linkedin.com/in/gabrielziegler/)
@@ -33,7 +33,7 @@ ___
 
 ### Python Engineer at Turing.com
 
-_March 2021 - August 2022, California, Remote_
+_August 2022 - Present, California, Remote_
 
 Python developer for one of the biggest AI research companies.
 
