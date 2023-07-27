@@ -106,6 +106,7 @@ ___
 
 ## Publications & Awards
 
+* [Dropping Incomplete Records is (not so) Straightforward](https://link.springer.com/chapter/10.1007/978-3-031-30047-9_30) - IDA 2023: Advances in Intelligent Data Analysis XXI
 * [Document classification using a Bi-LSTM to unclog Brazil's Supreme Court](https://arxiv.org/abs/1811.11569) - NeurIPS 2018 Workshop on Machine Learning for Developing World (ML4D)
 * [Document type classification for Brazil’s Supreme Court using a Convolutional Neural Network](http://icofcs.org/2018/papers-published-001.html) - ICOFCS 2018 Selected as Best Paper.
 
