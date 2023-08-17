@@ -86,11 +86,17 @@ ___
 
 ## Education
 
-### MSc Data Science at the Eindhoven University of Technology
+### MSc Data Science at Aalto University
 
-_September 2022 - Ongoing, Eindhoven, Netherlands_
+_September 2023 - July 2024, Helsinki, Finland_
 
-Scholar in the EIT Digital double-degree Masters in Data Science & Artificial Intelligence.
+Scholar in the EIT Digital double master's degree in Data Science & Artificial Intelligence.
+
+### MSc Data Science at Eindhoven University of Technology
+
+_September 2022 - July 2023, Eindhoven, Netherlands_
+
+Scholar in the EIT Digital double master's degree in Data Science & Artificial Intelligence.
 
 ### Bachelor of Software Engineering (4.13/5.0) at the University of Brasília
 
@@ -114,7 +120,7 @@ ___
 
 ## Languages
 
-Portuguese: Native
-English: Fluent - C1 TOEFL IBT 102
-Spanish: Limited working proficiency
+- Portuguese: Native
+- English: Fluent - C1 TOEFL IBT 102
+- Spanish: Limited working proficiency
 
