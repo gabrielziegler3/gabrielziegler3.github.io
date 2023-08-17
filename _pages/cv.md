@@ -31,13 +31,13 @@ ___
 
 ## Experiences
 
-### Python Engineer at Turing.com
+### Python Engineer @ [Turing.com](https://www.turing.com/)
 
 _August 2022 - Present, California, Remote_
 
 Python developer for one of the biggest AI research companies.
 
-### Machine Learning Engineer at Itaú Unibanco
+### Machine Learning Engineer @ [Itaú Unibanco](https://en.wikipedia.org/wiki/Ita%C3%BA_Unibanco)
 
 _March 2021 - August 2022, São Paulo, Remote_
 
@@ -49,7 +49,7 @@ Responsible for developing, deploying and monitoring audio deep learning models 
 
 Tech: **API Gateway, IAM, KMS, ECS, EFS, CodeBuild, CodePipeline, CloudWatch, Fargate, Lambda, Sagemaker,  SQS, SNS, S3, Python, Pytorch, Hugging Face Transformers, Docker, Flask, Linux.**
 
-### Data Scientist at Banco do Brasil
+### Data Scientist @ [Banco do Brasil](https://www.bb.com.br/pbb/pagina-inicial/atendimento/bb-no-mundo/about-us#/)
 
 _March 2020 - September 2020, Brasília, Remote_
 
@@ -58,7 +58,7 @@ Responsible for ETL pipelines, EDA, Insights Reports and client-focused Machine 
 
 Tech used: **Python, SQL, H2O AutoML, SAS, IBM DB2.**
 
-### Data Scientist at Vert
+### Data Scientist @ [Vert](https://vert.com.br/)
 
 _April 2019 - July 2019, Brasília_
 
@@ -66,14 +66,14 @@ Responsible for creating a dashboard in SAS Viya with data from national transpo
 
 Tech used: **SAS Viya, SQL, Python.**
 
-### Facebook F8 Hackathon Finalists 2019
+### [Facebook F8 Hackathon Finalists 2019](https://www.facebook.com/watch/?ref=saved&v=432443067305810&t=2205)
 
 _April 2019 - April 2019, San Jose, California_
 
 Selected as Top 8 Finalist out of 55 teams in the annual Facebook F8 Hackathon.
 **Our team pitched to Mark Zuckerberg personally** being primarily responsible for using Deep Learning models for text summarization and translation.
 
-### Machine Learning Researcher & Developer (NLP) at AI Lab
+### Machine Learning Researcher & Developer (NLP) @ [AI Lab](https://ailab.unb.br/)
 
 _March 2018 - April 2019, Brasilia, Brazil_
 
@@ -86,25 +86,25 @@ ___
 
 ## Education
 
-### MSc Data Science at Aalto University
+### MSc Data Science @ [Aalto University](https://www.aalto.fi/en/aalto-university)
 
 _September 2023 - July 2024, Helsinki, Finland_
 
 Scholar in the EIT Digital double master's degree in Data Science & Artificial Intelligence.
 
-### MSc Data Science at Eindhoven University of Technology
+### MSc Data Science @ [Eindhoven University of Technology](https://www.tue.nl/en/education/?gclid=CjwKCAjwivemBhBhEiwAJxNWN-0e8eFIGUuX-g6QhU_XCij4glyJLzqvcR9ucu8I07kVRXRIURZRaRoCKJgQAvD_BwE)
 
 _September 2022 - July 2023, Eindhoven, Netherlands_
 
 Scholar in the EIT Digital double master's degree in Data Science & Artificial Intelligence.
 
-### Bachelor of Software Engineering (4.13/5.0) at the University of Brasília
+### Bachelor of Software Engineering (4.13/5.0) @ University of Brasília
 
 _August 2015 - May 2021, Brasília_
 
 Thesis: [Context-Dependent Probabilistic Prior Information for MRI Reconstruction](https://gabrielziegler3.github.io/publication/codeppi)
 
-### Exchange Student - Rangitoto College
+### Exchange Student @ Rangitoto College
 
 _January 2014 - December 2014, Auckland, New Zealand_
 
