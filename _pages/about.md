@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Software Engineer with 5 years of experience in Machine Learning Engineering and currently enrolled in the MSc. Data Science & Artificial Intelligence at Aalto University as a scholar.
+Experienced machine learning engineer and software engineer with a proven track record of designing and deploying machine learning systems to production. My expertise of over 5 years includes the domains of NLP, Fraud Detection, and Speech Processing.
 
 ## Awards
 
