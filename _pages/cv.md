@@ -87,7 +87,7 @@ ___
 <p>Scholar in the EIT Digital double master's degree in Data Science & Artificial Intelligence.</p>
 
 <h3>Bachelor of Software Engineering (4.13/5.0) ♦️ <a href="https://www.unb.br"><img src="../images/school/unb.svg" width="30" height="30" alt="University of Brasília Logo" /></a> University of Brasília</h3>
-<p><em>August 2015 - May 2021 - Brasília</em></p>
+<p><em>August 2015 - May 2021 - Brasília, Brazil</em></p>
 <p>Thesis: <a href="https://gabrielziegler3.github.io/publication/codeppi">Context-Dependent Probabilistic Prior Information for MRI Reconstruction</a></p>
 
 <h3>Exchange Student ♦️ <a href="http://www.rangitoto.school.nz"><img src="../images/school/rangitoto.png" width="30" height="30" alt="Rangitoto College Logo" /></a> Rangitoto College</h3>
