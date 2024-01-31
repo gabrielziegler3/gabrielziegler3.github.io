@@ -31,9 +31,9 @@ ___
 
 ## Experiences
 
-### Senior Software Engineer @ [Datia](https://www.datia.app/)
+<h3>Senior Software Engineer @ <a href="https://www.datia.app/"><img src="../images/companies/datia.png" width="20" height="20" alt="Datia Logo" /></a> Datia</h3>
 
-_February 2024 - Present - Stockholm, Sweden (Remote)_
+<p><em>February 2024 - Present - Stockholm, Sweden (Remote)</em></p>
 
 ### Python Engineer @ [Turing.com](https://www.turing.com/)
 
@@ -45,11 +45,11 @@ Python developer for one of the biggest AI research companies.
 
 _March 2021 - August 2022 - São Paulo, Brazil (Remote)_
 
-Responsible for developing, deploying and monitoring audio deep learning models following MLOps practices.
-* I am one of the lead organisers for the Itaú Data Science Meetup, helping the community grow by +1500 subscribers since I joined. (YouTube)
-* Improved the speaker verification model by ~20 percentage points in EER on noisy datasets.
-* Improved the speaker diarization model by ~30 percentage points in DER on noisy datasets.
-* I designed and developed an _end-to-end automatic speech recognition_ system that involved five different Deep Learning models creating a structured output for each audio file received in a database with a message queuing system. The architecture was composed of 10+ AWS IaC services varying from S3, Lambdas, SQS, SNS, and ECS Fargate, among others.
+ML Engineer with experience in designing, implementing, deploying, and monitoring speech ML systems. Worked with Data Science and MLOps teams to deliver data-intensive systems.
+
+• Improved speaker verification model by ~20% and speaker diarization model by ~30% on noisy datasets
+• Deployed APIs and end-to-end batch-processing Speech Recognition System
+• Experienced in using AWS infrastructure, including SQS, SNS, S3, Sagemaker, ECS Fargate, ECR, EFS, Lambda, and API Gateway
 
 Tech: **API Gateway, IAM, KMS, ECS, EFS, CodeBuild, CodePipeline, CloudWatch, Fargate, Lambda, Sagemaker,  SQS, SNS, S3, Python, Pytorch, Hugging Face Transformers, Docker, Flask, Linux.**
 
