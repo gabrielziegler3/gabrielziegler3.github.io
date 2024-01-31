@@ -31,14 +31,13 @@ ___
 
 ## Experiences
 
-## Experiences
-
 <h3>Senior Software Engineer ♦️ <a href="https://www.datia.app/"><img src="../images/companies/datia.png" width="30" height="30" alt="Datia Logo" /></a> Datia</h3>
 <p><em>February 2024 - Present - Stockholm, Sweden (Remote)</em></p>
 
 <h3>Python Engineer ♦️ <a href="https://www.turing.com/"><img src="../images/companies/turing.webp" width="30" height="30" alt="Turing Logo" /></a> Turing.com</h3>
 <p><em>August 2022 - Present, California, USA (Remote)</em></p>
 <p>Python developer for one of the biggest AI research companies.</p>
+<p>Tech: <strong>Python, AWS, LLMs, Testing</strong></p>
 
 <h3>Machine Learning Engineer ♦️ <a href="https://en.wikipedia.org/wiki/Ita%C3%BA_Unibanco"><img src="../images/companies/itau.png" width="30" height="30" alt="Itaú Logo" /></a> Itaú Unibanco</h3>
 <p><em>March 2021 - August 2022 - São Paulo, Brazil (Remote)</em></p>
