@@ -25,7 +25,7 @@ ___
 
 ## Summary
 
-Experienced machine learning engineer and software engineer with a proven track record of designing and deploying machine learning systems to production. My expertise of over 5 years includes the domains of NLP, Fraud Detection, and Speech Processing.
+Experienced software engineer and machine learning engineer with a proven track record of designing and deploying machine learning systems to production. My expertise of over 5 years includes the domains of Speech Processing, NLP, and Fraud Detection.
 
 ___
 
@@ -35,9 +35,9 @@ ___
 <p><em style="font-size:smaller;">February 2024 - Present - Stockholm, Sweden (Remote)</em></p>
 
 <h3>Python Engineer ♦️ <a href="https://www.turing.com/"><img src="../images/companies/turing.webp" width="30" height="30" alt="Turing Logo" /> Turing.com</a></h3>
-<p><em style="font-size:smaller;">August 2022 - Present, California, USA (Remote)</em></p>
+<p><em style="font-size:smaller;">August 2022 - February 2024 - California, USA (Remote)</em></p>
 <p>Python developer for one of the biggest AI research companies.</p>
-<p>Tech: <strong>Python, AWS, LLMs, Testing</strong></p>
+<p><em style="font-size:smaller;">Tech: <strong>Python, AWS, LLMs, Testing</strong></em></p>
 
 <h3>Machine Learning Engineer ♦️ <a href="https://en.wikipedia.org/wiki/Ita%C3%BA_Unibanco"><img src="../images/companies/itau.png" width="30" height="30" alt="Itaú Logo" /> Itaú Unibanco</a></h3>
 <p><em style="font-size:smaller;">March 2021 - August 2022 - São Paulo, Brazil (Remote)</em></p>
@@ -47,7 +47,7 @@ ___
 <li>Deployed APIs and end-to-end batch-processing Speech Recognition System</li>
 <li>Experienced in using AWS infrastructure, including SQS, SNS, S3, Sagemaker, ECS Fargate, ECR, EFS, Lambda, and API Gateway</li>
 </ul>
-<p>Tech: <strong>API Gateway, IAM, KMS, ECS, EFS, CodeBuild, CodePipeline, CloudWatch, Fargate, Lambda, Sagemaker,  SQS, SNS, S3, Python, Pytorch, Hugging Face Transformers, Docker, Flask, Linux.</strong></p>
+<p><em style="font-size:smaller;">Tech: <strong>API Gateway, IAM, KMS, ECS, EFS, CodeBuild, CodePipeline, CloudWatch, Fargate, Lambda, Sagemaker,  SQS, SNS, S3, Python, Pytorch, Hugging Face Transformers, Docker, Flask, Linux.</strong></em></p>
 
 <h3>Data Scientist ♦️ <a href="https://www.bb.com.br/pbb/pagina-inicial/atendimento/bb-no-mundo/about-us#/"><img src="../images/companies/bancodobrasil.png" width="30" height="30" alt="Banco do Brasil Logo" /> Banco do Brasil</a></h3>
 <p><em style="font-size:smaller;">March 2020 - September 2020 - Brasília (Remote)</em></p>
@@ -55,12 +55,12 @@ ___
 <ul>
 <li>Improved the credit limit model by 10 percentage points in F1-Score.</li>
 </ul>
-<p>Tech used: <strong>Python, SQL, H2O AutoML, SAS, IBM DB2.</strong></p>
+<p><em style="font-size:smaller;">Tech: <strong>Python, SQL, H2O AutoML, SAS, IBM DB2.</strong></em></p>
 
 <h3>Data Scientist ♦️ <a href="https://vert.com.br/"><img src="../images/companies/vert.jpeg" width="30" height="30" alt="Vert Logo" /> Vert</a></h3>
 <p><em style="font-size:smaller;">April 2019 - July 2019 - Brasília, Brazil</em></p>
 <p>Responsible for creating a dashboard in SAS Viya with data from national transport traffic.</p>
-<p>Tech used: <strong>SAS Viya, SQL, Python.</strong></p>
+<p><em style="font-size:smaller;">Tech: <strong>SAS Viya, SQL, Python.</strong></em></p>
 
 <h3><a href="https://www.facebook.com/watch/?ref=saved&v=432443067305810&t=2205"><img src="../images/companies/meta.png" width="30" height="30" alt="Facebook Logo" /> Facebook F8 Hackathon Finalists 2019</a></h3>
 <p><em style="font-size:smaller;">April 2019 - April 2019 - San Jose, California</em></p>
@@ -72,7 +72,7 @@ ___
 <ul>
 <li>Model performance F1 score > 80%, performing way above the human performance evaluated for the same task.</li>
 </ul>
-<p>Tech used: <strong>Python, Linux, RabbitMQ, PostgreSQL, XGBoost, SpaCy, NLTK, Docker, Git.</strong></p>
+<p><em style="font-size:smaller;">Tech: <strong>Python, Linux, RabbitMQ, PostgreSQL, XGBoost, SpaCy, NLTK, Docker, Git.</strong></em></p>
 
 ___
 
