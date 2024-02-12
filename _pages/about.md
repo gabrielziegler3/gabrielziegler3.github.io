@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Experienced machine learning engineer and software engineer with a proven track record of designing and deploying machine learning systems to production. My expertise of over 5 years includes the domains of NLP, Fraud Detection, and Speech Processing.
+Senior Software Engineer at Datia and soon to be double Data Science master from TU Eindhoven and Aalto University.
 
 ## Awards
 
