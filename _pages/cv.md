@@ -86,6 +86,10 @@ ___
 <p><em style="font-size:smaller;">September 2022 - July 2023 - Eindhoven, Netherlands</em></p>
 <p>Scholar in the EIT Digital double master's degree in Data Science & Artificial Intelligence.</p>
 
+<h3>Summer School ♦️ <a href="https://www.tum.de/en/"><img src="../images/school/tum.png" width="30" height="30" alt="Technische Universitët München Logo" /> Technische Universitët München</a></h3>
+<p><em style="font-size:smaller;">July 2023 - August 2023 - Munich, Germany</em></p>
+<p>Collaborated with Siemens on creating 'EmissionAware': a new software business to ease access to carbon-emission within the supply chain for forecasting and reducing Scope 3 emissions.</p>
+
 <h3>Bachelor of Software Engineering (4.13/5.0) ♦️ <a href="https://www.unb.br"><img src="../images/school/unb.svg" width="30" height="30" alt="University of Brasília Logo" /> University of Brasília</a></h3>
 <p><em style="font-size:smaller;">August 2015 - May 2021 - Brasília, Brazil</em></p>
 <p>Thesis: <a href="https://gabrielziegler3.github.io/publication/codeppi">Context-Dependent Probabilistic Prior Information for MRI Reconstruction</a></p>
