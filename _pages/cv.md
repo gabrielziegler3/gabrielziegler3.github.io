@@ -12,20 +12,14 @@ redirect_from:
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-# Curriculum Vitae
-
-## Contact
-
-Location: Brasília, Brazil<br>
+Location: Brasília, Brazil (GMT-3)<br>
 Email: gabrielziegler3@gmail.com<br>
 GitHub: [gabrielziegler3](https://github.com/gabrielziegler3/)<br>
 LinkedIn: [gabrielziegler](https://www.linkedin.com/in/gabrielziegler/)
 
 ___
 
-## Summary
-
-Experienced software engineer and machine learning engineer with a proven track record of designing and deploying machine learning systems to production. My expertise of over 5 years includes the domains of Speech Processing, NLP, and Fraud Detection.
+Experienced Software and Machine Learning Engineer with a proven track record of designing and deploying ML systems to production. My expertise of over 5 years includes the domains of PDF Processing, Speech Processing, NLP, and Fraud Detection.
 
 ___
 
@@ -33,11 +27,12 @@ ___
 
 <h3>Senior Software Engineer ♦️ <a href="https://www.datia.app/"><img src="../images/companies/datia.png" width="30" height="30" alt="Datia Logo" /> Datia</a></h3>
 <p><em style="font-size:smaller;">February 2024 - Present - Stockholm, Sweden (Remote)</em></p>
+<p><em style="font-size:smaller;">Tech: <strong>Python, AWS, LLMs, Testing, OCR, PDF parsing</strong></em></p>
 
 <h3>Python Engineer ♦️ <a href="https://www.turing.com/"><img src="../images/companies/turing.webp" width="30" height="30" alt="Turing Logo" /> Turing.com</a></h3>
 <p><em style="font-size:smaller;">August 2022 - February 2024 - California, USA (Remote)</em></p>
 <p>Python developer for one of the biggest AI research companies.</p>
-<p><em style="font-size:smaller;">Tech: <strong>Python, AWS, LLMs, Testing</strong></em></p>
+<p><em style="font-size:smaller;">Tech: <strong>Python, AWS, LLMs, Testing, Pytorch.</strong></em></p>
 
 <h3>Machine Learning Engineer ♦️ <a href="https://en.wikipedia.org/wiki/Ita%C3%BA_Unibanco"><img src="../images/companies/itau.png" width="30" height="30" alt="Itaú Logo" /> Itaú Unibanco</a></h3>
 <p><em style="font-size:smaller;">March 2021 - August 2022 - São Paulo, Brazil (Remote)</em></p>
@@ -79,11 +74,11 @@ ___
 ## Education
 
 <h3>MSc Data Science ♦️ <a href="https://www.aalto.fi/en/aalto-university"><img src="../images/school/aalto.png" width="30" height="30" alt="Aalto University Logo" /> Aalto University</a></h3>
-<p><em style="font-size:smaller;">September 2023 - July 2024 - Helsinki, Finland</em></p>
+<p><em style="font-size:smaller;">September 2022 - July 2024 - Helsinki, Finland</em></p>
 <p>Scholar in the EIT Digital double master's degree in Data Science & Artificial Intelligence.</p>
 
 <h3>MSc Data Science ♦️ <a href="https://www.tue.nl/en/education/?gclid=CjwKCAjwivemBhBhEiwAJxNWN-0e8eFIGUuX-g6QhU_XCij4glyJLzqvcR9ucu8I07kVRXRIURZRaRoCKJgQAvD_BwE"><img src="../images/school/tue.png" width="30" height="30" alt="Eindhoven University of Technology Logo" /> Eindhoven University of Technology</a></h3>
-<p><em style="font-size:smaller;">September 2022 - July 2023 - Eindhoven, Netherlands</em></p>
+<p><em style="font-size:smaller;">September 2022 - July 2024 - Eindhoven, Netherlands</em></p>
 <p>Scholar in the EIT Digital double master's degree in Data Science & Artificial Intelligence.</p>
 
 <h3>Summer School ♦️ <a href="https://www.tum.de/en/"><img src="../images/school/tum.png" width="30" height="30" alt="Technische Universitët München Logo" /> Technische Universitët München</a></h3>
