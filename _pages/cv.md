@@ -12,7 +12,7 @@ redirect_from:
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-Location: Brasília, Brazil (GMT-3)<br>
+Location: Florianopolis, Brazil (or somewhere in the 🌎)<br>
 Email: gabrielziegler3@gmail.com<br>
 GitHub: [gabrielziegler3](https://github.com/gabrielziegler3/)<br>
 LinkedIn: [gabrielziegler](https://www.linkedin.com/in/gabrielziegler/)
@@ -83,7 +83,7 @@ ___
 
 <h3>Summer School ♦️ <a href="https://www.tum.de/en/"><img src="../images/school/tum.png" width="30" height="30" alt="Technische Universitët München Logo" /> Technische Universitët München</a></h3>
 <p><em style="font-size:smaller;">July 2023 - August 2023 - Munich, Germany</em></p>
-<p>Collaborated with Siemens on creating 'EmissionAware': a new software business to ease access to carbon-emission within the supply chain for forecasting and reducing Scope 3 emissions.</p>
+<p>Collaborated with Siemens on creating <i>EmissionAware</i>: a new software business to ease access to carbon-emission within the supply chain for forecasting and reducing Scope 3 emissions.</p>
 
 <h3>Bachelor of Software Engineering (4.13/5.0) ♦️ <a href="https://www.unb.br"><img src="../images/school/unb.svg" width="30" height="30" alt="University of Brasília Logo" /> University of Brasília</a></h3>
 <p><em style="font-size:smaller;">August 2015 - May 2021 - Brasília, Brazil</em></p>
