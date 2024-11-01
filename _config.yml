@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gabriel Ziegler"
 title_separator          : "-"
 name                     : &name "Gabriel Ziegler"
-description              : &description "Machine Learning Engineer at Itaú"
+description              : &description "Senior Software Engineer at Datia"
 url                      : https://gabrielziegler3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gabrielziegler3.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Gabriel Ziegler"
   avatar           : "dp.png"
-  bio              : "Senior Software Engineer with over 5 years of experience in Machine Learning Engineering, NLP, Cloud, Computer Vision, and Speech Processing"
-  location         : "Brasília, Brazil"
+  bio              : "Senior Software Engineer experienced in Machine Learning Engineering, NLP, Cloud, Computer Vision, and Speech Processing"
+  location         : "Florianópolis, Brazil (or nomading)"
   employer         : "Datia"
   pubmed           :
   googlescholar    :
