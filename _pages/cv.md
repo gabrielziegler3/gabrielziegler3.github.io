@@ -18,8 +18,7 @@ LinkedIn: [gabrielziegler](https://www.linkedin.com/in/gabrielziegler/)
 
 ___
 
-Experienced Software and Machine Learning Engineer with a proven track record of designing and deploying ML systems to production. My expertise of over 5 years includes the domains of PDF Processing, Speech Processing, NLP, and Fraud Detection.
-
+Senior Software Engineer at Datia and Double Master in Data Science from the Technical University of Einhoven and the University of Aalto.
 ___
 
 ## Experiences
