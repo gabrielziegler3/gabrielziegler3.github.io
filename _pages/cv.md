@@ -13,7 +13,6 @@ redirect_from:
 {% endif %}
 
 Location: Florianopolis, Brazil (or somewhere in the 🌎)<br>
-Email: gabrielziegler3@gmail.com<br>
 GitHub: [gabrielziegler3](https://github.com/gabrielziegler3/)<br>
 LinkedIn: [gabrielziegler](https://www.linkedin.com/in/gabrielziegler/)
 

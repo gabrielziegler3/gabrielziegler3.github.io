@@ -34,5 +34,4 @@ Senior Software Engineer at Datia and Double Master in Data Science from the Tec
 
 Email is the best contact to reach out to me. If you do not get a reply within two days, please do not hesitate to follow-up. Thank you very much for your interest.
 
-- Email: `gabrielziegler3@gmail.com`
 - Social media accounts can be found on the left (for PC) or "Follow" button on the top (for smartphone).
