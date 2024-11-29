@@ -18,13 +18,19 @@ LinkedIn: [gabrielziegler](https://www.linkedin.com/in/gabrielziegler/)
 
 ___
 
-Senior Software Engineer at Datia and Double Master in Data Science from the Technical University of Einhoven and the University of Aalto.
+Senior Software Engineer at Datia and Double Master in Data Science from the Technical University of Eindhoven and the University of Aalto.
 ___
 
 ## Experiences
 
 <h3>Senior Software Engineer ♦️ <a href="https://www.datia.app/"><img src="../images/companies/datia.png" width="30" height="30" alt="Datia Logo" /> Datia</a></h3>
 <p><em style="font-size:smaller;">February 2024 - Present - Stockholm, Sweden (Remote)</em></p>
+<p>At Datia, I contributed across multiple domains, such as data, backend, and frontend development to enhance the product experience. Key achievements include:</p>
+<ul>
+<li>Developing an LLM-powered system capable of extracting key performance indicators (KPIs) from documents with high accuracy, streamlining data extraction processes.</li>
+<li>Designing and implementing an internal dashboard for sustainability data visualization, enabling more informed decision-making.</li>
+<li>Enhancing the product's backend and frontend by fixing critical bugs and delivering impactful features using Node.js and React.</li>
+</ul>
 <p><em style="font-size:smaller;">Tech: <strong>Python, AWS, LLMs, Testing, OCR, PDF parsing</strong></em></p>
 
 <h3>Python Engineer ♦️ <a href="https://www.turing.com/"><img src="../images/companies/turing.webp" width="30" height="30" alt="Turing Logo" /> Turing.com</a></h3>
