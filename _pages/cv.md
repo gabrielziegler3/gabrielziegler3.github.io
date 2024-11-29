@@ -19,6 +19,7 @@ LinkedIn: [gabrielziegler](https://www.linkedin.com/in/gabrielziegler/)
 ___
 
 Senior Software Engineer at Datia and Double Master in Data Science from the Technical University of Eindhoven and the University of Aalto.
+
 ___
 
 ## Experiences
