@@ -24,8 +24,13 @@ ___
 
 ## Experiences
 
+<h3>Consulting Software and Machine Learning Engineer<a href="https://www.linkedin.com/company/106311322/admin/dashboard/"><img src="../images/companies/ziegler.jpg" width="30" height="30" alt="Ziegler Logo" /> Ziegler Software & AI Solutions</a></h3>
+<p><em style="font-size:smaller;">January 2025 - Present - Remote</em></p>
+<p>Building software and AI solution for clients.</p>
+<p><em style="font-size:smaller;">Tech: <strong>Python, AWS, FastAPI, LLMs, RAG, Faiss, Vector DB, Testing, OCR, PDF parsing, Unit tests, CI, CD</strong></em></p>
+
 <h3>Senior Software Engineer ♦️ <a href="https://www.datia.app/"><img src="../images/companies/datia.png" width="30" height="30" alt="Datia Logo" /> Datia</a></h3>
-<p><em style="font-size:smaller;">February 2024 - Present - Stockholm, Sweden (Remote)</em></p>
+<p><em style="font-size:smaller;">February 2024 - November 2024 - Stockholm, Sweden (Remote)</em></p>
 <p>At Datia, I contributed across multiple domains, such as data, backend, and frontend development to enhance the product experience. Key achievements include:</p>
 <ul>
 <li>Developing an LLM-powered system capable of extracting key performance indicators (KPIs) from documents with high accuracy, streamlining data extraction processes.</li>
