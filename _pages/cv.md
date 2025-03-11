@@ -24,7 +24,7 @@ ___
 
 ## Experiences
 
-<h3>Consulting Software and Machine Learning Engineer   <a href="https://www.linkedin.com/company/106311322/admin/dashboard/"><img src="../images/companies/ziegler.jpg" width="30" height="30" alt="Ziegler Logo" /> Ziegler Software & AI Solutions</a></h3>
+<h3>Consulting Software and Machine Learning Engineer  ♦️ <a href="https://www.linkedin.com/company/106311322/admin/dashboard/"><img src="../images/companies/ziegler.png" width="30" height="30" alt="Ziegler Logo" /> Ziegler Software & AI Solutions</a></h3>
 <p><em style="font-size:smaller;">January 2025 - Present - Remote</em></p>
 <p>Building software and AI solution for clients.</p>
 <p><em style="font-size:smaller;">Tech: <strong>Python, AWS, FastAPI, LLMs, RAG, Faiss, Vector DB, Testing, OCR, PDF parsing, Unit tests, CI, CD</strong></em></p>
