@@ -1,0 +1,12 @@
+version: '3'
+services:
+  jekyll:
+    build: .
+    ports:
+      - "4000:4000"
+      - "35729:35729" # For livereload
+    volumes:
+      - .:/usr/src/app
+    environment:
+      - PAGES_REPO_NWO=youruser/yourrepo
+
