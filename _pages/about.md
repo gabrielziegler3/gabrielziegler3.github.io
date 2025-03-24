@@ -18,15 +18,15 @@ Senior Software & Machine Learning Engineer and Double Master in Data Science fr
 <br>
 [OpenCurriculum Project](https://devpost.com/software/opencurriculum-by-wattba)
 
-## Portfolio
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ## Research
 
 {% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Portfolio
+
+{% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
 
