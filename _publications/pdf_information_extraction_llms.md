@@ -6,6 +6,7 @@ excerpt: "The study’s findings underscore the possibility of using the three a
 date: 2024-09-23
 venue: "Aalto University Master's thesis in Data Science"
 paperurl: "https://aaltodoc.aalto.fi/items/0de86839-bf64-470e-902f-ea2df315a5f8"
+excerpt_image: "/images/portfolio/master_thesis_perfect_match_results.png"
 ---
 
 # Abstract

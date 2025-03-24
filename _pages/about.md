@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Senior Software & Machine Learning Engineer and Double Master in Data Science from the Technical University of Eindhoven and the University of Aalto.
+**Senior Software & Machine Learning Engineer** and **Double Master in Data Science & Artificial Intelligence** from the Technical University of Eindhoven and the University of Aalto.
+
+I love software engineering, data, and kitesurfing (order varies depending on the weather).
 
 ## Awards
 
-* **2019 F8 Facebook Hackathon Finalist** Selected as Top 8 Finalist out of 55 teams in the annual Facebook F8 Hackathon in San Jose, California. Pitched to Mark Zuckerberg in person.
+* **F8 Facebook Hackathon Finalist (2019)** Selected as Top 8 Finalist out of 55 teams in the annual Facebook F8 Hackathon in San Jose, California. **Pitched our project to Mark Zuckerberg in person.**
+
+![](/images/portfolio/f8.jpeg)
 
 [Finalists pitch](https://www.facebook.com/watch/?v=432443067305810)
 <br>
@@ -32,6 +36,5 @@ Senior Software & Machine Learning Engineer and Double Master in Data Science fr
 
 ## Contact
 
-Email is the best contact to reach out to me. If you do not get a reply within two days, please do not hesitate to follow-up. Thank you very much for your interest.
+You can reach me at <a href="mailto:&#103;&#097;&#098;&#114;&#105;&#101;&#108;&#122;&#105;&#101;&#103;&#108;&#101;&#114;&#051;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#103;&#097;&#098;&#114;&#105;&#101;&#108;&#122;&#105;&#101;&#103;&#108;&#101;&#114;&#051;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a>.
 
-- Social media accounts can be found on the left (for PC) or "Follow" button on the top (for smartphone).

@@ -6,7 +6,7 @@ excerpt: "The Brazilian court system is currently the most clogged up judiciary 
 date: 2018-11-27
 venue: 'Machine Learning for Developing World: Achieving Sustainable Impact Workshop Proceedings NIPS'
 paperurl: "https://arxiv.org/abs/1811.11569"
-citation: 
+excerpt_image: "/images/portfolio/document_classification_confusion_matrix.png"
 ---
 
 # Abstract
