@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Senior Software Engineer at Datia and Double Master in Data Science from the Technical University of Eindhoven and the University of Aalto.
+Senior Software & Machine Learning Engineer and Double Master in Data Science from the Technical University of Eindhoven and the University of Aalto.
 
 ## Awards
 
