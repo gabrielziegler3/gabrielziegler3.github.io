@@ -6,6 +6,7 @@ excerpt: "A straightforward approach to handling missing values is dropping inco
 date: 2023-04-01
 venue: 'International Symposium on Intelligent Data Analysis'
 paperurl: "https://link.springer.com/chapter/10.1007/978-3-031-30047-9_30"
+excerpt_image: '/images/portfolio/dropping_incomplete_records_mnar.png'
 citation:
 ---
 
