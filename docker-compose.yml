@@ -9,4 +9,6 @@ services:
       - .:/usr/src/app
     environment:
       - PAGES_REPO_NWO=youruser/yourrepo
+    command: >
+      bash -c "bundle install && bundle exec jekyll serve --host 0.0.0.0 --port 4000 --livereload"
 
