@@ -38,7 +38,7 @@
   margin-top: 0;
   line-height: 1;
 
-  & + .page__meta {
+  &+.page__meta {
     margin-top: -0.5em;
   }
 }
@@ -55,7 +55,9 @@
     border-bottom: 1px solid $border-color;
   }
 
-  p, li, dl {
+  p,
+  li,
+  dl {
     font-size: 1em;
   }
 
@@ -64,8 +66,8 @@
     margin: 0 0 $indent-var;
 
     /* sibling indentation*/
-    @if $paragraph-indent == true {
-      & + p {
+    @if $paragraph-indent ==true {
+      &+p {
         text-indent: $indent-var;
         margin-top: -($indent-var);
       }
@@ -101,7 +103,7 @@
   }
 
   /* blockquote citations */
-  blockquote + .small {
+  blockquote+.small {
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
@@ -300,6 +302,7 @@
   transition: $global-transition;
 
   &.disabled {
+
     input,
     button,
     textarea,
@@ -398,4 +401,167 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+}
+
+
+/*
+   Custom CV Timeline
+   ========================================================================== */
+
+.cv-timeline {
+  position: relative;
+  padding-left: 2rem;
+  border-left: 2px solid $border-color;
+  margin-left: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+
+  .cv-entry {
+    position: relative;
+    margin-bottom: 2.5rem;
+    padding: 1.5rem;
+    background: #fff;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+
+    &::before {
+      content: '';
+      position: absolute;
+      left: -2.6rem;
+      /* Adjust based on padding-left of .cv-timeline */
+      top: 1.5rem;
+      width: 1rem;
+      height: 1rem;
+      background: $info-color;
+      border: 2px solid #fff;
+      border-radius: 50%;
+      box-shadow: 0 0 0 2px $info-color;
+    }
+
+    h3 {
+      margin-top: 0;
+      margin-bottom: 0.5rem;
+      font-size: $type-size-4;
+      border-bottom: none;
+      /* Remove default border */
+    }
+
+    p {
+      margin-bottom: 0.5rem;
+    }
+
+    ul {
+      margin-bottom: 1rem;
+      padding-left: 1.2rem;
+    }
+
+    .tech-stack {
+      margin-top: 1rem;
+      font-size: $type-size-6;
+
+      strong {
+        display: inline-block;
+        background: lighten($info-color, 45%);
+        color: darken($info-color, 10%);
+        padding: 0.2rem 0.5rem;
+        border-radius: 12px;
+        margin: 0.1rem;
+        font-weight: 600;
+      }
+    }
+  }
+}
+
+/*
+   Hero Section
+   ========================================================================== */
+
+.hero-text {
+  font-size: $type-size-3;
+  line-height: 1.4;
+  margin-bottom: 2rem;
+  color: $dark-gray;
+
+  strong {
+    color: $info-color;
+  }
+}
+
+/*
+   Publications Section
+   ========================================================================== */
+
+.publication-list {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.publication-card {
+  background: #fff;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-color: $info-color;
+  }
+
+  a {
+    text-decoration: none;
+    font-weight: 600;
+    color: $dark-gray;
+    display: block;
+    margin-bottom: 0.25rem;
+
+    &:hover {
+      color: $info-color;
+    }
+  }
+
+  .publication-venue {
+    font-size: $type-size-6;
+    color: lighten($text-color, 15%);
+  }
+}
+
+/*
+   Languages Section
+   ========================================================================== */
+
+.language-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.language-card {
+  background: #fff;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  padding: 1rem;
+  text-align: center;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+
+  strong {
+    display: block;
+    color: $dark-gray;
+    font-size: $type-size-5;
+    margin-bottom: 0.25rem;
+  }
+
+  .proficiency {
+    font-size: $type-size-6;
+    color: $info-color;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
 }

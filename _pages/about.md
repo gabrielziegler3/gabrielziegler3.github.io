@@ -8,19 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-**Senior Software & Machine Learning Engineer** and **Double Master in Data Science & Artificial Intelligence** from the Technical University of Eindhoven and the University of Aalto.
+<p class="hero-text">
+  <strong>Senior Software & Machine Learning Engineer</strong> and <strong>Double Master in Data Science & Artificial Intelligence</strong> from the Technical University of Eindhoven and the University of Aalto.
+</p>
 
 I love software engineering, data, and kitesurfing (order varies depending on the weather).
 
 ## Awards
 
-* **F8 Facebook Hackathon Finalist (2019)** Selected as Top 8 Finalist out of 55 teams in the annual Facebook F8 Hackathon in San Jose, California. **Pitched our project to Mark Zuckerberg in person.**
-
-![](/images/portfolio/f8.jpeg)
-
-[Finalists pitch](https://www.facebook.com/watch/?v=432443067305810)
-<br>
-[OpenCurriculum Project](https://devpost.com/software/opencurriculum-by-wattba)
+<div class="archive__item">
+  <div class="archive__item-teaser">
+    <img src="/images/portfolio/f8.jpeg" alt="Facebook F8 Hackathon">
+  </div>
+  <h3 class="archive__item-title">F8 Facebook Hackathon Finalist (2019)</h3>
+  <p>Selected as Top 8 Finalist out of 55 teams in the annual Facebook F8 Hackathon in San Jose, California. <strong>Pitched our project to Mark Zuckerberg in person.</strong></p>
+  <p>
+    <a href="https://www.facebook.com/watch/?v=432443067305810" class="btn btn--info">Watch Finalists Pitch</a>
+    <a href="https://devpost.com/software/opencurriculum-by-wattba" class="btn btn--inverse">OpenCurriculum Project</a>
+  </p>
+</div>
 
 ## Research
 
@@ -36,5 +42,10 @@ I love software engineering, data, and kitesurfing (order varies depending on th
 
 ## Contact
 
-You can reach me at <a href="mailto:&#103;&#097;&#098;&#114;&#105;&#101;&#108;&#122;&#105;&#101;&#103;&#108;&#101;&#114;&#051;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#103;&#097;&#098;&#114;&#105;&#101;&#108;&#122;&#105;&#101;&#103;&#108;&#101;&#114;&#051;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a>.
+<div class="archive__item">
+  <p style="text-align: center; font-size: 1.2em;">
+    You can reach me at <br>
+    <a href="mailto:&#103;&#097;&#098;&#114;&#105;&#101;&#108;&#122;&#105;&#101;&#103;&#108;&#101;&#114;&#051;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;" style="font-weight: bold; color: #0D9488;">&#103;&#097;&#098;&#114;&#105;&#101;&#108;&#122;&#105;&#101;&#103;&#108;&#101;&#114;&#051;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a>
+  </p>
+</div>
 
