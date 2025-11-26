@@ -6,26 +6,96 @@ layout: compress
 
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
 
-  <body>
+<head>
+  {% include head.html %}
+  {% include head/custom.html %}
+</head>
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+<body>
+  <!-- Animated Wave Background Canvas -->
+  <canvas id="wave-background"></canvas>
+  <script>
+    (function () {
+      const canvas = document.getElementById('wave-background');
+      const ctx = canvas.getContext('2d');
 
-    {{ content }}
+      // Set canvas size
+      function resizeCanvas() {
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+      }
+      resizeCanvas();
+      window.addEventListener('resize', resizeCanvas);
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
+      // Wave configuration with fade parameters
+      const waves = [
+        { y: 0, length: 0.01, amplitude: 100, frequency: 0.002, baseOpacity: 0.15, fadeSpeed: 0.003, fadeOffset: 0 },
+        { y: 0, length: 0.015, amplitude: 150, frequency: 0.0015, baseOpacity: 0.18, fadeSpeed: 0.004, fadeOffset: Math.PI / 3 },
+        { y: 0, length: 0.008, amplitude: 80, frequency: 0.0025, baseOpacity: 0.12, fadeSpeed: 0.0035, fadeOffset: Math.PI / 2 },
+        { y: 0, length: 0.012, amplitude: 120, frequency: 0.002, baseOpacity: 0.14, fadeSpeed: 0.0025, fadeOffset: Math.PI },
+        { y: 0, length: 0.013, amplitude: 110, frequency: 0.0018, baseOpacity: 0.16, fadeSpeed: 0.0032, fadeOffset: Math.PI * 1.5 },
+        { y: 0, length: 0.009, amplitude: 90, frequency: 0.0022, baseOpacity: 0.13, fadeSpeed: 0.0028, fadeOffset: Math.PI / 4 },
+        { y: 0, length: 0.011, amplitude: 130, frequency: 0.0019, baseOpacity: 0.17, fadeSpeed: 0.0038, fadeOffset: Math.PI * 1.2 },
+        { y: 0, length: 0.014, amplitude: 95, frequency: 0.0021, baseOpacity: 0.15, fadeSpeed: 0.0033, fadeOffset: Math.PI * 0.7 }
+      ];
 
-    {% include scripts.html %}
+      const colors = [
+        { r: 13, g: 148, b: 136 },   // Teal
+        { r: 20, g: 184, b: 166 },   // Light teal
+        { r: 45, g: 212, b: 191 }    // Lighter teal
+      ];
 
-  </body>
+      let increment = 0;
+
+      function animate() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+        waves.forEach((wave, index) => {
+          // Calculate fade opacity using sine wave
+          const fadeMultiplier = (Math.sin(increment * wave.fadeSpeed + wave.fadeOffset) + 1) / 2;
+          const currentOpacity = wave.baseOpacity * fadeMultiplier;
+
+          // Select color based on wave index
+          const colorIndex = index % colors.length;
+          const color = colors[colorIndex];
+
+          ctx.beginPath();
+          ctx.moveTo(0, canvas.height / 2);
+
+          for (let i = 0; i < canvas.width; i++) {
+            const y = canvas.height / 2 + Math.sin(i * wave.length + increment * wave.frequency) * wave.amplitude;
+            ctx.lineTo(i, y);
+          }
+
+          ctx.strokeStyle = `rgba(${color.r}, ${color.g}, ${color.b}, ${currentOpacity})`;
+          ctx.lineWidth = 3;
+          ctx.stroke();
+        });
+
+        increment += 1;
+        requestAnimationFrame(animate);
+      }
+
+      animate();
+    })();
+  </script>
+
+
+  {% include browser-upgrade.html %}
+  {% include masthead.html %}
+
+  {{ content }}
+
+  <div class="page__footer">
+    <footer>
+      {% include footer/custom.html %}
+      {% include footer.html %}
+    </footer>
+  </div>
+
+  {% include scripts.html %}
+
+</body>
+
 </html>
