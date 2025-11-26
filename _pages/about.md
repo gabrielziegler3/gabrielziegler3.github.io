@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<div style="text-align: justify;" markdown="1">
 <p class="hero-text">
   <strong>Senior Software & Machine Learning Engineer</strong> and <strong>Double Master in Data Science & Artificial Intelligence</strong> from the Technical University of Eindhoven and the University of Aalto.
 </p>
@@ -47,5 +48,6 @@ I love software engineering, data, and kitesurfing (order varies depending on th
     You can reach me at <br>
     <a href="mailto:&#103;&#097;&#098;&#114;&#105;&#101;&#108;&#122;&#105;&#101;&#103;&#108;&#101;&#114;&#051;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;" style="font-weight: bold; color: #0D9488;">&#103;&#097;&#098;&#114;&#105;&#101;&#108;&#122;&#105;&#101;&#103;&#108;&#101;&#114;&#051;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a>
   </p>
+</div>
 </div>
 

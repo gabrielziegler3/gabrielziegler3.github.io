@@ -426,17 +426,25 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 
     &::before {
-      content: '';
+      content: attr(data-year);
       position: absolute;
-      left: -2.6rem;
+      left: -3.8rem;
       /* Adjust based on padding-left of .cv-timeline */
       top: 1.5rem;
-      width: 1rem;
-      height: 1rem;
+      width: 3rem;
+      height: 1.5rem;
       background: $info-color;
       border: 2px solid #fff;
-      border-radius: 50%;
+      border-radius: 12px;
       box-shadow: 0 0 0 2px $info-color;
+      color: #fff;
+      font-size: 0.8rem;
+      font-weight: bold;
+      text-align: center;
+      line-height: 1.3rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
 
     h3 {
