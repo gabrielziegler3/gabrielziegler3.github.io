@@ -10,10 +10,31 @@ redirect_from:
 
 <div style="text-align: justify;" markdown="1">
 <p class="hero-text">
-  <strong>Senior Software & Machine Learning Engineer</strong> and <strong>Double Master in Data Science & Artificial Intelligence</strong> from the Technical University of Eindhoven and the University of Aalto.
+  <strong>Senior AI Engineer</strong> and <strong>Double Master in Data Science & Artificial Intelligence</strong> from the Technical University of Eindhoven and the University of Aalto with over 7 years of experience creating value from bits and bytes.
 </p>
 
 I love software engineering, data, and kitesurfing (order varies depending on the weather).
+
+<div style="text-align: center; margin: 2em 0;">
+  <p id="contribution-text" style="font-size: 0.9em; color: #586069; margin-bottom: 0.5em;">Loading contributions...</p>
+  <a href="https://github.com/gabrielziegler3" target="_blank" rel="noopener noreferrer">
+    <img src="https://ghchart.rshah.org/gabrielziegler3" alt="Gabriel Ziegler's GitHub Contribution Graph" style="width: 100%;" />
+  </a>
+</div>
+
+<script>
+async function fetchContributions() {
+  try {
+    const response = await fetch('https://github-contributions-api.jogruber.de/v4/gabrielziegler3?y=last');
+    const data = await response.json();
+    const total = data.total.lastYear;
+    document.getElementById('contribution-text').textContent = `${total.toLocaleString()} contributions in the last year`;
+  } catch (error) {
+    document.getElementById('contribution-text').textContent = '';
+  }
+}
+fetchContributions();
+</script>
 
 ## Awards
 
