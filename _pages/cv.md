@@ -18,13 +18,20 @@ LinkedIn: [gabrielziegler](https://www.linkedin.com/in/gabrielziegler/)
 
 ___
 
-Senior Software & Machine Learning Engineer and Double Master in Data Science from the Technical University of Eindhoven and the University of Aalto.
+AI Engineer and Double Master in Data Science from the Technical University of Eindhoven and the University of Aalto.
 
 ___
 
 ## Experiences
 
 <div class="cv-timeline">
+
+<div class="cv-entry" data-year="2026">
+<h3>AI Engineer | <a href="https://www.kadoa.com/" style="text-decoration: none;"><img src="../images/companies/kadoa.png" width="30" height="30" alt="Kadoa Logo" /> <span style="text-decoration: underline;">Kadoa</span></a></h3>
+<p><em style="font-size:smaller;">February 2026 - Present - Zurich, Switzerland (Remote)</em></p>
+<p>Building developer tools for Kadoa's web data extraction platform. Built the CLI (<code>@kadoa/cli</code>) and MCP server from scratch, including OAuth authentication, HTTP transport, and deployed the remote MCP server to GKE.</p>
+<p class="tech-stack"><strong>TypeScript</strong> <strong>Node.js</strong> <strong>MCP</strong> <strong>GKE</strong> <strong>OAuth</strong> <strong>Docker</strong> <strong>GitHub Actions</strong></p>
+</div>
 
 <div class="cv-entry" data-year="2025">
 <h3>Senior AI Software Engineer | <a href="https://www.trebu.ai/" style="text-decoration: none;"><img src="../images/companies/trebu.png" width="30" height="30" alt="Trebu Logo" /> <span style="text-decoration: underline;">Trebu</span></a></h3>
@@ -34,7 +41,7 @@ ___
 </div>
 
 <div class="cv-entry" data-year="2025">
-<h3>Consulting Software and Machine Learning Engineer | <a href="https://www.linkedin.com/company/106311322/admin/dashboard/" style="text-decoration: none;"><img src="../images/companies/ziegler.png" width="30" height="30" alt="Ziegler Logo" /> <span style="text-decoration: underline;">Ziegler Software & AI Solutions</span></a></h3>
+<h3>Consulting AI Engineer | <a href="https://www.linkedin.com/company/106311322/admin/dashboard/" style="text-decoration: none;"><img src="../images/companies/ziegler.png" width="30" height="30" alt="Ziegler Logo" /> <span style="text-decoration: underline;">Ziegler Software & AI Solutions</span></a></h3>
 <p><em style="font-size:smaller;">January 2025 - Present - Remote</em></p>
 <p>Building software and AI solution for clients.</p>
 <p class="tech-stack"><strong>Python</strong> <strong>AWS</strong> <strong>FastAPI</strong> <strong>LLMs</strong> <strong>RAG</strong> <strong>Faiss</strong> <strong>Vector DB</strong> <strong>Testing</strong> <strong>OCR</strong> <strong>PDF parsing</strong> <strong>Unit tests</strong> <strong>CI</strong> <strong>CD</strong></p>
