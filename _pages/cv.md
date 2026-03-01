@@ -27,7 +27,7 @@ ___
 <div class="cv-timeline">
 
 <div class="cv-entry" data-year="2026">
-<h3>AI Engineer | <a href="https://www.kadoa.com/" style="text-decoration: none;"><img src="../images/companies/kadoa.png" width="30" height="30" alt="Kadoa Logo" /> <span style="text-decoration: underline;">Kadoa</span></a></h3>
+<h3>Senior AI Engineer | <a href="https://www.kadoa.com/" style="text-decoration: none;"><img src="../images/companies/kadoa.png" width="30" height="30" alt="Kadoa Logo" /> <span style="text-decoration: underline;">Kadoa</span></a></h3>
 <p><em style="font-size:smaller;">February 2026 - Present - Zurich, Switzerland (Remote)</em></p>
 <p>Building developer tools for Kadoa's web data extraction platform. Built the CLI (<code>@kadoa/cli</code>) and MCP server from scratch, including OAuth authentication, HTTP transport, and deployed the remote MCP server to GKE.</p>
 <p class="tech-stack"><strong>TypeScript</strong> <strong>Node.js</strong> <strong>MCP</strong> <strong>GKE</strong> <strong>OAuth</strong> <strong>Docker</strong> <strong>GitHub Actions</strong></p>
