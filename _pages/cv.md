@@ -35,7 +35,7 @@ ___
 
 <div class="cv-entry" data-year="2025">
 <h3>Senior AI Software Engineer | <a href="https://www.trebu.ai/" style="text-decoration: none;"><img src="../images/companies/trebu.png" width="30" height="30" alt="Trebu Logo" /> <span style="text-decoration: underline;">Trebu</span></a></h3>
-<p><em style="font-size:smaller;">June 2025 - November 2025 - Florianópolis, Brazil (Remote)</em></p>
+<p><em style="font-size:smaller;">June 2025 - November 2025 - Monterrey, MX (Remote)</em></p>
 <p>Building agentic systems to automate the logistics industry in Mexico. I wore many hats, from backend, frontend, and infra, to building agents.</p>
 <p class="tech-stack"><strong>AWS</strong> <strong>Python</strong> <strong>Django</strong> <strong>React</strong> <strong>Docker</strong> <strong>LangGraph</strong> <strong>LangChain</strong> <strong>Redis</strong> <strong>PostgreSQL</strong></p>
 </div>
