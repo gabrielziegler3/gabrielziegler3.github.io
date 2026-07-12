@@ -12,15 +12,18 @@ redirect_from:
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-Location: Florianopolis, Brazil (or somewhere in the 🌎)<br>
-GitHub: [gabrielziegler3](https://github.com/gabrielziegler3/)<br>
-LinkedIn: [gabrielziegler](https://www.linkedin.com/in/gabrielziegler/)
-
-___
-
-AI Engineer and Double Master in Data Science from the Technical University of Eindhoven and the University of Aalto.
-
-___
+<section class="cv-summary">
+  <div>
+    <p class="cv-summary__eyebrow">Curriculum Vitae</p>
+    <h1>Senior AI Engineer</h1>
+    <p>7+ years in AI &amp; software · Double MSc in Data Science &amp; AI from Aalto University and TU Eindhoven.</p>
+  </div>
+  <ul class="cv-summary__details">
+    <li><i class="fas fa-map-marker-alt" aria-hidden="true"></i> Florianópolis, Brazil</li>
+    <li><a href="https://github.com/gabrielziegler3/"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
+    <li><a href="https://www.linkedin.com/in/gabrielziegler/"><i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+  </ul>
+</section>
 
 ## Experiences
 
@@ -29,8 +32,13 @@ ___
 <div class="cv-entry" data-year="2026">
 <h3>Senior AI Engineer | <a href="https://www.kadoa.com/" style="text-decoration: none;"><img src="../images/companies/kadoa.png" width="30" height="30" alt="Kadoa Logo" /> <span style="text-decoration: underline;">Kadoa</span></a></h3>
 <p><em style="font-size:smaller;">February 2026 - Present - Zurich, Switzerland (Remote)</em></p>
-<p>Building developer tools for Kadoa's web data extraction platform. Built the CLI (<code>@kadoa/cli</code>) and MCP server from scratch, including OAuth authentication, HTTP transport, and deployed the remote MCP server to GKE.</p>
-<p class="tech-stack"><strong>TypeScript</strong> <strong>Node.js</strong> <strong>MCP</strong> <strong>GKE</strong> <strong>OAuth</strong> <strong>Docker</strong> <strong>GitHub Actions</strong></p>
+<p>Building AI-native infrastructure for real-time web data extraction at Kadoa.</p>
+<ul>
+<li>Lead development across autonomous agents, workflow automation, public APIs, MCP integrations, and monitoring systems.</li>
+<li>Built the <code>@kadoa/cli</code> and MCP server from scratch, including OAuth authentication, HTTP transport, and deployment to GKE.</li>
+<li>Ship end-to-end product and platform work spanning UX, backend reliability, compliance, and production operations.</li>
+</ul>
+<p class="tech-stack"><strong>TypeScript</strong> <strong>Node.js</strong> <strong>React.js</strong> <strong>Next.js</strong> <strong>Express.js</strong> <strong>MCP</strong> <strong>GCP</strong> <strong>GKE</strong> <strong>Kubernetes</strong> <strong>Docker</strong> <strong>PostgreSQL</strong> <strong>Redis</strong> <strong>Linux</strong> <strong>GNU Make</strong> <strong>OAuth</strong> <strong>GitHub Actions</strong></p>
 </div>
 
 <div class="cv-entry" data-year="2025">
@@ -173,9 +181,8 @@ ___
 
 </div>
 
-___
-
-## Languages
+<section class="cv-languages">
+<h2>Languages</h2>
 
 <div class="language-grid">
 
@@ -186,7 +193,7 @@ ___
 
 <div class="language-card">
 <strong>English</strong>
-<span class="proficiency">Fluent - C1 TOEFL IBT 102</span>
+<span class="proficiency">Fluent · C1 · TOEFL iBT 102</span>
 </div>
 
 <div class="language-card">
@@ -195,3 +202,4 @@ ___
 </div>
 
 </div>
+</section>

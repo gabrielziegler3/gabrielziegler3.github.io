@@ -405,6 +405,78 @@
 
 
 /*
+   CV Summary
+   ========================================================================== */
+
+.cv-summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  padding: 1.25rem 1.5rem;
+  border: 1px solid rgba($info-color, 0.2);
+  border-radius: $border-radius;
+  background: linear-gradient(135deg, rgba(#fff, 0.96), rgba($info-color, 0.08));
+
+  h1 {
+    margin: 0 0 0.35rem;
+    color: $dark-gray;
+    font-size: $type-size-3;
+    line-height: 1.15;
+  }
+
+  p {
+    margin: 0;
+    font-size: 1rem;
+  }
+
+  @include breakpoint(max-width $medium) {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 1rem;
+  }
+}
+
+.cv-summary__eyebrow {
+  color: $info-color;
+  font-size: $type-size-7 !important;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.cv-summary__details {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 0.6rem 1rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    white-space: nowrap;
+    font-size: 0.875rem;
+  }
+
+  a {
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  i {
+    width: 1rem;
+    color: $info-color;
+    text-align: center;
+  }
+
+  @include breakpoint(max-width $medium) {
+    justify-content: flex-start;
+  }
+}
+
+/*
    Custom CV Timeline
    ========================================================================== */
 
@@ -872,34 +944,60 @@
    Languages Section
    ========================================================================== */
 
+.cv-languages {
+  margin-top: 2rem;
+  padding: 1rem 1.25rem;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  background: rgba(#fff, 0.75);
+
+  h2 {
+    margin: 0 0 1rem;
+    padding: 0;
+    border: 0;
+    font-size: $type-size-3;
+  }
+}
+
 .language-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 1rem;
-  margin-top: 1rem;
-  margin-bottom: 2rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 0;
+
+  @include breakpoint(max-width $small) {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+  }
 }
 
 .language-card {
-  background: #fff;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  padding: 1rem;
-  text-align: center;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  padding: 0 1rem;
+  border-right: 1px solid $border-color;
+  text-align: left;
+
+  &:first-child {
+    padding-left: 0;
+  }
+
+  &:last-child {
+    padding-right: 0;
+    border-right: 0;
+  }
 
   strong {
     display: block;
+    margin-bottom: 0.15rem;
     color: $dark-gray;
-    font-size: $type-size-5;
-    margin-bottom: 0.25rem;
+    font-size: 1rem;
   }
 
   .proficiency {
-    font-size: $type-size-6;
-    color: $info-color;
-    font-weight: 500;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
+    color: lighten($text-color, 18%);
+    font-size: 0.875rem;
+  }
+
+  @include breakpoint(max-width $small) {
+    padding: 0;
+    border-right: 0;
   }
 }
