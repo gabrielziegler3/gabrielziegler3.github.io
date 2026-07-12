@@ -13,6 +13,7 @@ redirect_from:
   <p class="home-hero__eyebrow">Senior AI Engineer · Florianópolis, Brazil</p>
   <h1>Building reliable AI products from research to production.</h1>
   <p class="home-hero__intro">I turn complex data and machine-learning problems into useful software, backed by seven years of industry experience and a double master's degree in Data Science and AI.</p>
+  <a class="home-hero__contact" href="mailto:gabrielziegler3+portfolio@gmail.com?subject=Hello%20from%20your%20portfolio">Contact me <i class="fas fa-envelope" aria-hidden="true"></i></a>
 </section>
 
 <ul class="credibility-strip" aria-label="Profile highlights">
