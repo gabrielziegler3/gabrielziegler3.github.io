@@ -18,7 +18,7 @@ redirect_from:
 <ul class="credibility-strip" aria-label="Profile highlights">
   <li><strong>7+ years</strong><span>AI &amp; software</span></li>
   <li><strong>Double MSc in Data Science &amp; AI</strong><span>Aalto University &amp; TU Eindhoven</span></li>
-  <li><strong>Brazil → Europe → Remote</strong><span>International experience</span></li>
+  <li><strong>Global experience</strong><span>Brazil, US, Europe &amp; remote teams</span></li>
 </ul>
 
 <section class="award-section" aria-labelledby="award-title">

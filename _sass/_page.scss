@@ -75,10 +75,10 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -446,35 +446,7 @@
   text-transform: uppercase;
 }
 
-.cv-summary__details {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  gap: 0.6rem 1rem;
-  margin: 0;
-  padding: 0;
-  list-style: none;
 
-  li {
-    white-space: nowrap;
-    font-size: 0.875rem;
-  }
-
-  a {
-    font-weight: 600;
-    text-decoration: none;
-  }
-
-  i {
-    width: 1rem;
-    color: $info-color;
-    text-align: center;
-  }
-
-  @include breakpoint(max-width $medium) {
-    justify-content: flex-start;
-  }
-}
 
 /*
    Custom CV Timeline
@@ -482,7 +454,7 @@
 
 .cv-timeline {
   position: relative;
-  padding-left: 2rem;
+  padding-left: 7rem;
   border-left: 2px solid $border-color;
   margin-left: 1rem;
   margin-top: 2rem;
@@ -497,34 +469,52 @@
     border-radius: $border-radius;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 
-    &::before {
-      content: attr(data-year);
-      position: absolute;
-      left: -3.8rem;
-      /* Adjust based on padding-left of .cv-timeline */
-      top: 1.5rem;
-      width: 3rem;
-      height: 1.5rem;
-      background: $info-color;
-      border: 2px solid #fff;
-      border-radius: 12px;
-      box-shadow: 0 0 0 2px $info-color;
-      color: #fff;
-      font-size: 0.8rem;
-      font-weight: bold;
-      text-align: center;
-      line-height: 1.3rem;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
     h3 {
       margin-top: 0;
       margin-bottom: 0.5rem;
       font-size: $type-size-4;
       border-bottom: none;
       /* Remove default border */
+    }
+
+    .cv-entry-title {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+
+      @include breakpoint(max-width $small) {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 0.5rem;
+      }
+    }
+
+    .cv-entry-org {
+      display: inline-flex;
+      align-items: center;
+      flex: 0 0 auto;
+      gap: 0.4rem;
+      padding: 0.3rem 0.6rem;
+      border: 1px solid $border-color;
+      border-radius: 999px;
+      color: $dark-gray;
+      font-size: 0.8rem;
+      font-weight: 600;
+      text-decoration: none;
+
+      &:hover {
+        border-color: $info-color;
+        color: $info-color;
+        text-decoration: none;
+      }
+
+      img {
+        width: 1.4rem;
+        height: 1.4rem;
+        margin: 0;
+        object-fit: contain;
+      }
     }
 
     p {
@@ -550,6 +540,87 @@
         font-weight: 600;
       }
     }
+  }
+}
+
+.cv-date-range {
+  position: absolute;
+  top: 1.25rem;
+  left: -10.25rem;
+  z-index: 1;
+  display: flex;
+  width: 6.5rem;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: 1.25rem;
+    bottom: 1.25rem;
+    left: 50%;
+    z-index: -1;
+    width: 1.25rem;
+    border-left: 2px solid $info-color;
+    border-bottom: 2px solid $info-color;
+    border-radius: 0 0 0 0.75rem;
+  }
+
+  span {
+    min-width: 6.5rem;
+    padding: 0.3rem 0.55rem;
+    border: 2px solid #fff;
+    border-radius: 999px;
+    background: $info-color;
+    box-shadow: 0 0 0 2px $info-color;
+    color: #fff;
+    font-size: 0.7rem;
+    font-weight: 700;
+    line-height: 1.2;
+    text-align: center;
+    white-space: nowrap;
+  }
+}
+
+@include breakpoint(max-width $medium) {
+  .cv-timeline {
+    margin-left: 0;
+    padding-left: 0;
+    border-left: 0;
+  }
+
+  .cv-date-range {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: auto;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 1.25rem;
+    margin-bottom: 1rem;
+
+    &::before {
+      top: 50%;
+      right: 1rem;
+      bottom: auto;
+      left: 1rem;
+      width: auto;
+      border-bottom: 2px solid $info-color;
+      border-left: 0;
+      border-radius: 0;
+    }
+  }
+}
+
+.cv-location {
+  color: lighten($text-color, 18%);
+  font-size: 0.875rem;
+
+  i {
+    width: 1rem;
+    color: $info-color;
+    text-align: center;
   }
 }
 
@@ -591,11 +662,11 @@
   }
 
   h1 {
-    max-width: 20ch;
+    max-width: none;
     margin: 0 0 0.75rem;
     border: 0;
     color: $dark-gray;
-    font-size: clamp(1.5rem, 3vw, 1.9rem);
+    font-size: clamp(1.4rem, 2.5vw, 1.75rem);
     line-height: 1.15;
     letter-spacing: -0.04em;
   }
@@ -907,7 +978,7 @@
   margin-bottom: 2rem;
 }
 
-.publication-card {
+.page__content .publication-card {
   background: #fff;
   border: 1px solid $border-color;
   border-radius: $border-radius;
@@ -931,11 +1002,12 @@
 
     &:hover {
       color: $info-color;
+      text-decoration: none;
     }
   }
 
   .publication-venue {
-    font-size: $type-size-6;
+    font-size: 0.875rem;
     color: lighten($text-color, 15%);
   }
 }
