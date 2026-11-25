@@ -36,9 +36,8 @@ redirect_from:
 <p class="cv-location"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> Zurich, Switzerland (Remote)</p>
 <p>Building AI-native infrastructure for real-time web data extraction at Kadoa.</p>
 <ul>
-<li>Lead development across autonomous agents, workflow automation, public APIs, MCP integrations, and monitoring systems.</li>
-<li>Built the <code>@kadoa/cli</code> and MCP server from scratch, including OAuth authentication, HTTP transport, and deployment to GKE.</li>
-<li>Ship end-to-end product and platform work spanning UX, backend reliability, compliance, and production operations.</li>
+<li>Shipped a real-time web monitoring system and built recovery for upstream outages so customers can see when their data was last refreshed.</li>
+<li>Built the remote MCP server with OAuth authentication and deployed it to GKE. Added tools that let users describe a workflow or monitor in plain language.</li>
 </ul>
 <p class="tech-stack"><strong>TypeScript</strong> <strong>Node.js</strong> <strong>React.js</strong> <strong>Next.js</strong> <strong>Express.js</strong> <strong>MCP</strong> <strong>GCP</strong> <strong>GKE</strong> <strong>Kubernetes</strong> <strong>Docker</strong> <strong>PostgreSQL</strong> <strong>Redis</strong> <strong>Linux</strong> <strong>GNU Make</strong> <strong>OAuth</strong> <strong>GitHub Actions</strong></p>
 </div>
