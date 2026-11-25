@@ -12,12 +12,12 @@ redirect_from:
 <section class="home-hero">
   <p class="home-hero__eyebrow">Senior AI Engineer · Florianópolis, Brazil</p>
   <h1>Building reliable AI products from research to production.</h1>
-  <p class="home-hero__intro">I turn complex data and machine-learning problems into useful software, backed by seven years of industry experience and a double master's degree in Data Science and AI.</p>
+  <p class="home-hero__intro">I turn complex data and machine-learning problems into useful software, backed by eight years of industry experience and a double master's degree in Data Science and AI.</p>
   <a class="home-hero__contact" href="mailto:gabrielziegler3+portfolio@gmail.com?subject=Hello%20from%20your%20portfolio">Contact me <i class="fas fa-envelope" aria-hidden="true"></i></a>
 </section>
 
 <ul class="credibility-strip" aria-label="Profile highlights">
-  <li><strong>7+ years</strong><span>AI &amp; software</span></li>
+  <li><strong>8+ years</strong><span>AI &amp; software</span></li>
   <li><strong>Double MSc in Data Science &amp; AI</strong><span>Aalto University &amp; TU Eindhoven</span></li>
   <li><strong>Global experience</strong><span>Brazil, US, Europe &amp; remote teams</span></li>
 </ul>

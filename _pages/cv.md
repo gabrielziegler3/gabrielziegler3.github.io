@@ -16,7 +16,7 @@ redirect_from:
   <div>
     <p class="cv-summary__eyebrow">Curriculum Vitae</p>
     <h1>Senior AI Engineer</h1>
-    <p>7+ years in AI &amp; software · Double MSc in Data Science &amp; AI from Aalto University and TU Eindhoven.</p>
+    <p>8+ years in AI &amp; software · Double MSc in Data Science &amp; AI from Aalto University and TU Eindhoven.</p>
   </div>
 </section>
 
