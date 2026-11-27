@@ -649,18 +649,6 @@
   background: linear-gradient(135deg, rgba(#fff, 0.96), rgba($info-color, 0.08));
   box-shadow: 0 18px 50px rgba($dark-gray, 0.08);
 
-  &::after {
-    content: "";
-    position: absolute;
-    right: -5rem;
-    bottom: -7rem;
-    width: 16rem;
-    height: 16rem;
-    border-radius: 50%;
-    background: rgba($info-color, 0.08);
-    pointer-events: none;
-  }
-
   h1 {
     max-width: none;
     margin: 0 0 0.75rem;
