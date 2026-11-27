@@ -683,7 +683,9 @@
   right: 1.5rem;
   bottom: 1.25rem;
   z-index: 1;
-  display: inline-flex;
+  display: inline-grid;
+  grid-template-columns: 1em auto 1em;
+  line-height: 1;
   align-items: center;
   gap: 0.45rem;
   padding: 0.45rem 0.8rem;
@@ -693,6 +695,10 @@
   font-size: 0.8rem;
   font-weight: 700;
   text-decoration: none;
+
+  &::before {
+    content: "";
+  }
 
   &:hover {
     background: darken($info-color, 7%);

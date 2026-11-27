@@ -197,7 +197,7 @@ ___
   <a class="cv-entry-org" href="https://www.aalto.fi/en/aalto-university"><img src="../images/school/aalto.png" alt="Aalto University Logo" /> <span>Aalto University</span></a>
 </h3>
 <p class="cv-location"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> Helsinki, Finland</p>
-<p>Scholar in the EIT Digital double master's degree in Data Science & Artificial Intelligence.</p>
+<p>Received an EIT Digital scholarship for the double MSc in Data Science and AI at Aalto University and Eindhoven University of Technology.</p>
 </div>
 
 <div class="cv-entry">
@@ -210,7 +210,6 @@ ___
   <a class="cv-entry-org" href="https://www.tue.nl/en/education/?gclid=CjwKCAjwivemBhBhEiwAJxNWN-0e8eFIGUuX-g6QhU_XCij4glyJLzqvcR9ucu8I07kVRXRIURZRaRoCKJgQAvD_BwE"><img src="../images/school/tue.png" alt="Eindhoven University of Technology Logo" /> <span>Eindhoven University of Technology</span></a>
 </h3>
 <p class="cv-location"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> Eindhoven, Netherlands</p>
-<p>Scholar in the EIT Digital double master's degree in Data Science & Artificial Intelligence.</p>
 </div>
 
 <div class="cv-entry">
@@ -271,7 +270,7 @@ ___
 
 <div class="publication-card">
 <a href="http://icofcs.org/2018/papers-published-001.html">Document type classification for Brazil’s Supreme Court using a Convolutional Neural Network</a>
-<div class="publication-venue">ICOFCS 2018 Selected as Best Paper</div>
+<div class="publication-venue">Best Paper · ICOFCS 2018</div>
 </div>
 
 </div>
