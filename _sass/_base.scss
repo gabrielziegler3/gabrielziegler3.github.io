@@ -1,3 +1,19 @@
+@font-face {
+  font-family: "Kadoa Display";
+  src: url("../fonts/KadoaDisplay-Variable.woff2") format("woff2");
+  font-weight: 100 1000;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kadoa Sans";
+  src: url("../fonts/KadoaSans-Variable.woff2") format("woff2");
+  font-weight: 100 1000;
+  font-style: normal;
+  font-display: swap;
+}
+
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
@@ -13,6 +29,7 @@ body {
   padding-bottom: 9em;
   color: $text-color;
   font-family: $global-font-family;
+  letter-spacing: 0.006em;
   line-height: 1.5;
 
   &.overflow--hidden {
@@ -26,6 +43,11 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
+}
+
+h1, h2 {
+  font-family: "Kadoa Display", $header-font-family;
+  letter-spacing: -0.005em;
 }
 
 h1 {
